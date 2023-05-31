@@ -1,16 +1,37 @@
-### Hi there 👋
+<div align="center">
+<h1 align="center">Hello <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"> I'm Rahul Rai</h1>
+<h3 align="center">Connect with me 🔗</h3>
+<p align="center">
+<a href="https://www.linkedin.com/in/rahulrai02/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alok-mathur-5aab4534" /></a>
+<a href="mailto:rahulr0211@gmail.com" target="_blank" ><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" align="center"/></a>
+</p>
+</div>
 
-<!--
-**RahulRai02/RahulRai02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br></br>
 
-Here are some ideas to get you started:
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=RahulRai02&show_icons=true&count_private=true&theme=dark" width="550"></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align='center'>
+  💻 My workspace<br/><br/>
+  <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0" />
+  <img src="https://img.shields.io/badge/intel-core%20i3%2011th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAM-8GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
+</p>
+
+<p align="center" >
+<img src = "https://gpvc.arturio.dev/RahulRai02" alt = "?" />
+<!-- <img src = "https://visitor-badge.glitch.me/badge?page_id=RahulRai02" alt= "?" /> -->
+</p>
+
+<br></br>
+
+<div align="center">
+
+<h2>Profile Overview 👨🏻‍💻</h2>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RahulRai02&theme=monokai"  display=block width=90% height=auto  alt="1" >
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahulRai02&theme=radical&layout=compact&hide=Jupyter%20Notebook"  display=block width=50% height=20%  alt="2" >
+</div>

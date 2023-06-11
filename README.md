@@ -1,5 +1,5 @@
 <div align="left">
-<h1 align="center">Hello <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"> I'm Rahul Rai</h1>
+<h1 align="left">Hello <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px"> I'm Rahul Rai</h1>
 <h3 align="left">Connect with me 🔗</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/rahulrai02/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alok-mathur-5aab4534" /></a>
@@ -24,5 +24,7 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RahulRai02&theme=monokai"  display=block width=90% height=auto  alt="1" >
 
 <br>
+<br>
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahulRai02&theme=radical&layout=compact&hide=Jupyter%20Notebook"  display=block width=50% height=20%  alt="2" >
 </div>
